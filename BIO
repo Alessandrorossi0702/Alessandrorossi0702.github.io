@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alessandro Rossi - Mechanical Engineer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 5px;
+        }
+        .section:last-child {
+            margin-bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Alessandro Rossi</h1>
+            <p>Mechanical Engineer</p>
+        </header>
+
+        <section class="section">
+            <h2>About Me</h2>
+            <p>Hello! I'm Alessandro Rossi, a passionate mechanical engineer with a focus on advanced optimization techniques and machine learning applications in aerospace engineering.</p>
+            <p>My current research involves the design and optimization of dual stator switch reluctance machines, and I'm actively exploring the use of genetic algorithms, Kriging, and deep neural networks for optimizing aircraft wing designs.</p>
+            <p>In my free time, I enjoy rowing as a way to stay active and unwind.</p>
+        </section>
+
+        <section class="section">
+            <h2>Projects</h2>
+            <h3>Dual Stator Switch Reluctance Machine</h3>
+            <p>Publishing a paper on the design and optimization of a dual stator switch reluctance machine.</p>
+            <h3>Aircraft Wing Optimization</h3>
+            <p>Applying genetic algorithms with Kriging and deep neural networks for optimizing aircraft wing structures.</p>
+        </section>
+
+        <section class="section">
+            <h2>Skills</h2>
+            <ul>
+                <li>Mechanical Engineering</li>
+                <li>Optimization Techniques</li>
+                <li>Machine Learning (Genetic Algorithms, Kriging, Deep Neural Networks)</li>
+                <li>Research and Publication</li>
+                <li>Project Management</li>
+                <li>Technical Writing</li>
+                <li>Rowing</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Contact Information</h2>
+            <p>Email: your.email@example.com</p>
+            <p>LinkedIn: <a href="https://www.linkedin.com/in/yourlinkedinprofile">linkedin.com/in/yourlinkedinprofile</a></p>
+            <!-- Add more contact details as needed -->
+        </section>
+    </div>
+</body>
+</html>
